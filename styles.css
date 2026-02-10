@@ -1,5 +1,5 @@
 ﻿.banner {
-    background: url("img/nen.jpg") no-repeat center center;
+    background: url("img/nentet.jpg") no-repeat center center;
     background-size: cover; /*Hình ảnh có thể bị cắt để lấp đầy toàn bộ phần tử*/
     padding-top: 12rem;
     padding-bottom: 12rem;
@@ -62,5 +62,6 @@
 }
 a:hover{
     color: magenta
+
 
 
